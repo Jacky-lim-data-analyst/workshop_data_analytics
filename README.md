@@ -21,3 +21,5 @@ These are all the data files.
 
 ### Readme files
 Metadata files
+
+Added a folder 'solution' which has the example codes of the hands-on practice for module 4 and module 6.
